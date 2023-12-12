@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Home",
+      "url": "/"
+    },
+    {
+      "title": "Our Domain",
+      "url": "/Our Domain"
+    },
+    {
+      "title": "Our team",
+      "url": "/Our team"
+    },
+
+    {
+      "title": "Contact Us",
+      "url": "/Contact Us"
+    }
+  ]
+
